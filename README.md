@@ -14,4 +14,4 @@ Manshi Bhatt
 B.Tech Student
 Year: 2025
 
-📄 View Research Paper: [Click here to view the PDF](./object detection.pdf)
+📄 View Research Paper: [Click here to view the PDF](./object%20detection.pdf)
