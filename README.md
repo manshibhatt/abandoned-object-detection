@@ -14,4 +14,4 @@ Manshi Bhatt
 B.Tech Student
 Year: 2025
 
-📄 View Research Paper: [Click here to view the PDF](./Abandoned_Object_Detection_Research.pdf)
+📄 View Research Paper: [Click here to view the PDF](./object detection.pdf)
